@@ -1,0 +1,155 @@
+.top-container {
+  background-color: #fffcdc;
+  position: relative;
+  width: 100%;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: "Sacramento", cursive;
+  font-size: 580%;
+  position: relative;
+  top: 0.4em;
+  margin-bottom: 0.5em;
+  color: #66bfbf;
+  line-height: 2;
+}
+
+h2 {
+  font-family: "Monserrat", sans-serif;
+  color: #66bfbf;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #66bfbf;
+}
+
+.middle-container {
+  background-color: #edd2f3;
+  width: 100%;
+  margin: 10em, 0;
+}
+
+.bottom-container {
+  background-color: #95d1cc;
+  width: 100%;
+  margin: 0;
+  padding: 4em 0 1.3em;
+}
+
+.bottom-cloud {
+  position: relative;
+  right: 20em;
+}
+
+.top-cloud {
+  margin-top: 3.125em;
+  position: relative;
+  left: 20%;
+}
+
+.mountain {
+  width: 35em;
+}
+
+.programmer {
+  font-family: "Sacramento", cursive;
+  font-size: 300%;
+  color: #000000;
+  margin-top: 0;
+}
+
+.contact-me-p {
+  width: 40%;
+  margin: 2.8em auto 4em;
+}
+
+.picture {
+  width: 25%;
+  float: left;
+  margin-right: 1.875em;
+}
+
+.accounting {
+  width: 25%;
+  float: right;
+  margin-left: 2.1em;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 6.25em auto 9.375em auto;
+  text-align: left;
+}
+.p-height {
+  line-height: 2;
+}
+
+.profile {
+  margin-top: 7em;
+  width: 20%;
+}
+
+hr {
+  border: dotted #524f4fd7 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+p {
+  line-height: 2;
+}
+
+.my-button {
+  background-color: #66bfbf;
+  border-radius: 17px;
+  border: 1px solid #66bfbf;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: "Montserrat", sans-serif;
+  font-size: 17px;
+  padding: 13px 25px;
+  text-decoration: none;
+  margin: 1em auto 10em;
+}
+.my-button:hover {
+  background-color: #edd2f3;
+}
+.my-button:active {
+  position: relative;
+  top: 1px;
+}
+
+.skills {
+  margin: 0;
+}
+
+a {
+  color: #11999e;
+  margin: auto 0.6em;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #edd2f3;
+}
+
+.copyright {
+  color: aliceblue;
+  font-size: 0.75em;
+}
